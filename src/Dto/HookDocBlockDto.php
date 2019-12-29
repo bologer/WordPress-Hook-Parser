@@ -7,6 +7,7 @@ namespace Bologer\Dto;
  * Class HookDocBlockDto holds dockblock information.
  *
  * @package Bologer\Dto
+ * @author Alexander Teshabaev <sasha.tesh@gmail.com>
  */
 class HookDocBlockDto {
 	/**

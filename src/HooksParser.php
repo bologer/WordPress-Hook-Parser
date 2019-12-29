@@ -27,6 +27,9 @@ use Bologer\Dto\HookDocBlockDto;
  * ]);
  * $parsedItems = $parser->parse(); // Do something with found items from all files in directory
  * ```
+ *
+ * @package Bologer
+ * @author Alexander Teshabaev <sasha.tesh@gmail.com>
  */
 class HooksParser {
 	/**

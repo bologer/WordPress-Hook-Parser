@@ -6,6 +6,7 @@ namespace Bologer\Dto;
  * Class HookDto holds single hooks instance.
  *
  * @package Bologer\Dto
+ * @author Alexander Teshabaev <sasha.tesh@gmail.com>
  */
 class HookDto {
 	/**

@@ -2,13 +2,15 @@
 
 namespace Bologer;
 
-
 use Exception;
 use Bologer\Dto\HookDto;
 use Bologer\Dto\HookTagDto;
 
 /**
  * Class HookDocumentation helps to generate automatic .md doc about hooks in the plugin.
+ *
+ * @package Bologer
+ * @author Alexander Teshabaev <sasha.tesh@gmail.com>
  */
 class HookDocumentation {
 
