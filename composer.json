@@ -1,0 +1,17 @@
+{
+    "name": "bologer/wordpress-hook-parser",
+    "description": "Helps to parse WordPress hooks & generate automatic Markdown documentation for them.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alexander Teshabaev",
+            "email": "sasha.tesh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Bologer\\": "src/"
+        }
+    }
+}
